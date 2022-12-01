@@ -1,0 +1,24 @@
+{
+  "name": "belajar-rest-api",
+  "version": "1.0.0",
+  "description": "Belajar  Rest API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhezico/Belajar-Rest-API.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "zico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jhezico/Belajar-Rest-API/issues"
+  },
+  "homepage": "https://github.com/Jhezico/Belajar-Rest-API#readme"
+}
